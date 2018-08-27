@@ -1,5 +1,10 @@
 # lysosomeSpatialPatternGUI
 
+Reference: 
+
+Ba, Q., Raghavan, G., Kiselyov, K. and Yang, G. (2018). Whole-cell scale dynamic organization of
+lysosomes revealed by spatial statistical analysis. Cell Reports 12, 3591-3606.
+
 
 orgSpatStat version 4 2018-01-25
 Qinle Ba, Ge Yang Lab at Carnegie Mellon University 
